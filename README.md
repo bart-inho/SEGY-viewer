@@ -16,9 +16,9 @@ A comprehensive GUI application for browsing and visualizing SEGY seismic data f
 - Real-time switching between display modes
 
 ### 🔧 **Data Processing**
-- **Background Removal**: 30-trace sliding window for noise suppression
+- **Background Removal**: 30-trace sliding window for noise suppression (work in progress)
 - **Data Normalization**: Trace-by-trace amplitude normalization
-- **DC Bias Removal**: Automatic mean removal from traces
+- **DC Bias Removal**: Automatic mean removal from traces (work in progress)
 - **Full Data Loading**: Complete traces loaded for zoom capability
 
 ### 🎛️ **Interactive Controls**
